@@ -1,0 +1,7 @@
+aquila:
+  policy:
+    application:
+      env: prod
+      version: v1.0
+      name: aquila-policy-provider
+      serverPort: 3001
